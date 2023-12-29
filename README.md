@@ -53,7 +53,7 @@ admin.site.register(Student,StudentAdmin)
 ### Server Output:
 ![image](Serveroutput.png)
 ### Verifying Primary key:
-[!image](verification.png)
+![image](verification.png)
 
 
 ## RESULT
